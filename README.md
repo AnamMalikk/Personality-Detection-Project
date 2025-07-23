@@ -87,12 +87,7 @@ With the growing importance of personality analysis in fields like recruitment, 
 
 ## User Interface
 
-<img width="940" height="435" alt="image" src="https://github.com/user-attachments/assets/d961ab36-3965-42a6-8b30-f72374a6a1ea" />
----
-<img width="940" height="428" alt="image" src="https://github.com/user-attachments/assets/8881e829-725d-404d-81dc-5a3120f81ca0" />
----
-<img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/7c35534c-7302-42b1-84f5-b30c720c6952" />
----
+
 <img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/85787abf-cd56-4f15-abac-560bb9aa8293" />
 ---
 <img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/d5335148-da5f-4cc9-9503-59fd68512cf0" />
@@ -103,5 +98,9 @@ With the growing importance of personality analysis in fields like recruitment, 
 
 
 
-
+<p align="center">
+  <img src="[image1.png](https://github.com/user-attachments/assets/d961ab36-3965-42a6-8b30-f72374a6a1ea)" alt="Image 1" width="250" style="margin-right: 15px;"/>
+  <img src="[image2.png](https://github.com/user-attachments/assets/8881e829-725d-404d-81dc-5a3120f81ca0)" alt="Image 2" width="250" style="margin-right: 15px;"/>
+  <img src="[image3.png](https://github.com/user-attachments/assets/7c35534c-7302-42b1-84f5-b30c720c6952)" alt="Image 3" width="250"/>
+</p>
 
