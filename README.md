@@ -94,6 +94,10 @@ With the growing importance of personality analysis in fields like recruitment, 
 </p>
 <br><br>
 
+
+---
+
+
 <!-- IMAGE 2 -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8881e829-725d-404d-81dc-5a3120f81ca0" alt="Image 2" width="940" height="433" />
