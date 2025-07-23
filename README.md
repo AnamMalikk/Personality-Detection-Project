@@ -104,11 +104,15 @@ With the growing importance of personality analysis in fields like recruitment, 
 </p>
 <br><br>
 
+---
+
 <!-- IMAGE 3 -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c35534c-7302-42b1-84f5-b30c720c6952" alt="Image 3" width="940" height="433" />
 </p>
 <br><br>
+
+---
 
 <!-- IMAGE 4 -->
 <p align="center">
@@ -116,17 +120,23 @@ With the growing importance of personality analysis in fields like recruitment, 
 </p>
 <br><br>
 
+---
+
 <!-- IMAGE 5 -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d5335148-da5f-4cc9-9503-59fd68512cf0" alt="Image 5" width="940" height="433" />
 </p>
 <br><br>
 
+---
+
 <!-- IMAGE 6 -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b2520c8-9793-4be5-a636-af1f76942e16" alt="Image 6" width="940" height="433" />
 </p>
 <br><br>
+
+---
 
 <!-- IMAGE 7 -->
 <p align="center">
